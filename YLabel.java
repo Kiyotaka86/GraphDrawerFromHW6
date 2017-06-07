@@ -16,7 +16,7 @@ import javax.swing.JLabel;
  * @author Kio
  */
 public class YLabel extends JLabel {
-    private String name = "yabel";
+    private String name = "ylabel";
     
     
     @Override
